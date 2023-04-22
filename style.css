@@ -113,23 +113,23 @@ nav img {
 
 @media(max-width:700px) {
     nav {
-        border: 2px solid red;
+        /*border: 2px solid red;*/
         display: flex;
         flex-direction: column;
     }
     nav img {
         margin-top: 4px;
-        border: 2px solid red;
+        /*border: 2px solid red;*/
     }
     .nav-links {
         margin-top: 6px;
-        border: 2px solid red;
+        /*border: 2px solid red;*/
         width: 100%;
         text-align: center;
     }
     .nav-links ul li {
         margin-top: 4px;
-        border: 2px solid green;
+        /*border: 2px solid green;*/
         /* padding-top: 0px; */
     }
     .text-box {
