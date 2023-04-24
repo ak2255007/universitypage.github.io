@@ -453,3 +453,6 @@ h3 {
     height: 30px;
     /* width: 10px; */
 }
+.footer img:hover {
+    transform: scale(2);
+}
